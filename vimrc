@@ -23,7 +23,7 @@ set shiftwidth=4
 "由于 Tab 键在不同的编辑器缩进不一致，该设置自动将 Tab 转为空格
 set expandtab
 "Tab 转为多少个空格
-set softtabstop=2
+set softtabstop=4
 "显示行号
 set number
 "光标所在的当前行高亮
